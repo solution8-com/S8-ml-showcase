@@ -70,7 +70,7 @@ Production-grade machine learning systems for cryptocurrency trading and researc
 ## Quick Start
 
 ```bash
-git clone https://github.com/KeepALifeUS/ml-showcase.git
+git clone https://github.com/solution8-com/S8-ml-trading-showcase
 cd ml-showcase
 
 # Install a specific module
