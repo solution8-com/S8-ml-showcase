@@ -1,6 +1,6 @@
 # ML Portfolio
 
-Production-grade machine learning systems for cryptocurrency trading and research. 27 modules covering reinforcement learning, quantitative trading, NLP, and core ML infrastructure.
+Production-grade machine learning system for cryptocurrency trading + research. 27 modules covering reinforcement learning, quantitative trading, NLP, and core ML infrastructure.
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org)
